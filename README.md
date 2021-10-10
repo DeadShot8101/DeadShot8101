@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **html/css/js/npm, Frondend development**
+- 🤝 I’m looking for help with **html/css/js/npm, Frontend development**
 
 - 💬 Ask me about **anything**
 

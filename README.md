@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DeaDShoT8101&label=Profile%20views&color=4DC71F&style=flat" alt="DeaDShoT8101" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
+    <img src="https://img.shields.io/badge/Age-26-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
     <img src="https://img.shields.io/badge/Focous-Discord%20Bot%20Developement-brightgreen"/> 
